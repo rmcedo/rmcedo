@@ -6,8 +6,8 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 
 If you have a sugestion, i'm happy to learn from everybody.
 
-<a href="https://www.instagram.com/rafaeldasm/">
-  <img align="left" alt="rafaeldasm's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/javainiciante/">
+  <img align="left" alt="Rafael's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/rafaeldasm">
   <img align="left" alt="rafaeldasm | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
