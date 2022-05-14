@@ -4,6 +4,22 @@ My name is Rafael Macedo, i'm from __Pelotas, RS (Brazil)__, currently living in
 
 I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this page with the subjects we learn in the course.
 
+<p align="center">
+✍🏾Currently Learning:
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+
+Next Months:
+
+<p align="center">
+✍🏾 knowledge:
+  
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+</p>
+
+
 If you have a sugestion, i'm happy to learn from everybody.
 
 <a href="https://www.instagram.com/javainiciante/">
