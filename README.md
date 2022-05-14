@@ -1,11 +1,8 @@
-# Hi there 👋
+# Hi there 🖥
 
-My name is Rafael Macedo, i'm from __Pelotas, RS (Brazil)__, currently living in __Brusque, SC (Brazil)__.
+> My name is Rafael Macedo, i'm from __Pelotas, RS (Brazil)__, currently living in __Brusque, SC (Brazil)__.
 
-```` I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this page with the subjects we learn in the course.
-````
-
-<p align="left">
+> I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this page with the subjects we learn in the course.
 
 ## 👨‍💻Currently Learning:
 
@@ -19,10 +16,10 @@ My name is Rafael Macedo, i'm from __Pelotas, RS (Brazil)__, currently living in
 
 
 
-</p>
 
 
-If you have a sugestion, i'm happy to learn from everybody.
+
+#### Follow me: 
 
 <a href="https://www.instagram.com/javainiciante/">
   <img align="left" alt="Rafael's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -35,5 +32,9 @@ If you have a sugestion, i'm happy to learn from everybody.
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rmcedo.rmcedo)
+
+
+If you have a sugestion, i'm happy to learn from everybody.
+
 
 **Cheers!**
