@@ -32,6 +32,7 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 </a>
 <a href="https://www.linkedin.com/in/rafael-macedo-49801011a/">
 <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
 </a>
 
 
