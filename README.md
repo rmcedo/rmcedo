@@ -35,10 +35,10 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 <img align="left" alt="Rafael's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/rafaeldasm">
-<img align="left" alt="rafaeldasm | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img align="left" alt="rmcedo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rafael-macedo-49801011a/">
-<img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="rmcedo LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 </a>
 
