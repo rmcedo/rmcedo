@@ -37,7 +37,7 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 <a href="https://twitter.com/rafaeldasm">
 <img align="left" alt="rmcedo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rafael-macedo-49801011a/">
+<a href="https://www.linkedin.com/in/rmcedo">
 <img align="left" alt="rmcedo LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 </a>
