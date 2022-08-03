@@ -15,13 +15,15 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="/icons/Bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
+</a>
+<a href="https://jquery.com/" target="_blank"> <img src="/icons/jQuery.png" alt="jQuery" width="40" height="40"/> </a>
 
 
 ## 📅Next Months
 
 
 </a> </a> <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /> <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-<a href="https://www.figma.com/" title="SQLite"><img src="icons/figma.png" /></a>
+<a href="https://www.figma.com/" title="Figma"><img src="icons/figma.png" /></a>
 
 
 
@@ -33,7 +35,7 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 
 ## 👨🏾‍💻Follow me 
 
-<a href="https://www.instagram.com/javainiciante/">
+<a href="https://www.instagram.com/rafaeldasm/">
 <img align="left" alt="Rafael's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/rafaeldasm">
