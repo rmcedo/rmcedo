@@ -2,7 +2,7 @@
 
 My name is Rafael Macedo, i'm from __Pelotas, RS (Brazil)__, currently living in __Brusque, SC (Brazil)__.
 
-I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this page with the subjects we are learning in the course.
+I'm learning the subjects below from *Prof. Oliota of Entra21*. Slowly we will updating this page with the subjects we are learning in the course.
 
 
 ## 👨‍💻Currently and Always Learning
@@ -15,7 +15,7 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="/icons/Bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
-</a><a href="https://jquery.com/" target="_blank"> <img src="/icons/jQuery.png" alt="jQuery" width="40" height="40"/> </a>
+</a><a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jQuery" width="40" height="40"/> </a>
 
 
 ## 📅Next Months
@@ -37,8 +37,6 @@ I'm learning Java from *Prof. Oliota of Entra21*. Slowly we will updating this p
 <a href="https://www.instagram.com/rafaeldasm/">
 <img align="left" alt="Rafael's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/rafaeldasm">
-<img align="left" alt="rmcedo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rmcedo">
 <img align="left" alt="rmcedo LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
