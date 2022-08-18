@@ -14,8 +14,7 @@ I'm learning the subjects below from *Prof. Oliota of Entra21*. Slowly we will u
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<a href="https://www.figma.com/" title="Figma"><img src="icons/figma.png" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><a href="https://www.figma.com/" title="Figma"><img src="icons/figma.png" width="40" height="40"/></a>
 
 
 
